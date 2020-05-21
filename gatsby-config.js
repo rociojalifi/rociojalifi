@@ -1,16 +1,16 @@
 const siteMetadata = {
-    title: `Elemental`,
+    title: `Rocio Jalifi`,
     siteUrl: `http://localhost`,
     capitalizeTitleOnHome: true,
-    logo: `/images/logo.png`,
+    logo: `/images/avatar.png`,
     icon: `/images/icon.png`,
     titleImage: `/images/wall.jpg`,
-    introTag: `PHOTOGRAPHER | VIDEOGRAPHER`,
-    description: `Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed sit amet accumsan arcu. Proin ac consequat arcu.`,
-    author: `@_akzhy`,
+    introTag: `NUTRITIONIST | VLOGGER`,
+    description: `Le kittem comes to make you vegan!`,
+    author: `@rojalifi`,
     blogItemsPerPage: 10,
     portfolioItemsPerPage: 10,
-    darkmode: true,
+    darkmode: false,
     switchTheme: true,
     navLinks: [
         {
@@ -34,31 +34,17 @@ const siteMetadata = {
             url: "/contact"
         }
     ],
-    footerLinks: [
-        {
-            name: "PRIVACY POLICY",
-            url: "/privacy-policy"
-        },
-        {
-            name: "GitHub",
-            url: "https://github.com/akzhy/gatsby-starter-elemental"
-        }
-    ],
+    footerLinks: [/* { name: "PRIVACY POLICY", url: "/privacy-policy" } */],
     social: [
-        {
-            name: "Facebook",
-            icon: "/images/Facebook.svg",
-            url: "#"
-        },
         {
             name: "Twitter",
             icon: "/images/Twitter.svg",
-            url: "#"
+            url: "https://twitter.com/rojalifi"
         },
         {
             name: "Instagram",
             icon: "/images/Instagram.svg",
-            url: "#"
+            url: "https://www.instagram.com/thisisroci"
         },
         {
             name: "Youtube",
