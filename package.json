@@ -1,8 +1,8 @@
 {
-	"name": "gatsby-starter-elemental",
-	"description": "A simple starter to get up and developing quickly with Gatsby",
+	"name": "rociojalifi",
+	"description": "Rocio Jalifi website",
 	"version": "0.1.0",
-	"author": "Akshay <hi@akzhy.com>",
+	"author": "",
 	"dependencies": {
 		"gatsby": "^2.10.4",
 		"gatsby-custom-md": "^1.0.2",
@@ -35,16 +35,16 @@
 	"scripts": {
 		"build": "gatsby build",
 		"develop": "gatsby develop",
+		"fmt": "prettier --write '**/*.{js,ts,tsx,less,css,html,md}'",
 		"format": "prettier --write src/**/*.{js,jsx}",
-		"start": "npm run develop",
 		"serve": "gatsby serve",
-		"prettier": "prettier --write **/*.{ts,js,css,html}"
+		"start": "npm run develop"
 	},
 	"repository": {
 		"type": "git",
-		"url": "https://github.com/akzhy/elemental"
+		"url": "https://github.com/rociojalifi/rociojalifi"
 	},
 	"bugs": {
-		"url": "https://github.com/akzhy/elemental/issues"
+		"url": "https://github.com/rociojalifi/rociojalifi/issues"
 	}
 }
