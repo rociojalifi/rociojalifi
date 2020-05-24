@@ -13,30 +13,13 @@ const siteMetadata = {
   darkmode: false,
   switchTheme: true,
   navLinks: [
-    {
-      name: 'HOME',
-      url: '/',
-    },
-    {
-      name: 'ABOUT',
-      url: '/about',
-    },
-    {
-      name: 'BLOG',
-      url: '/blog',
-    },
-    {
-      name: 'PORTFOLIO',
-      url: '/portfolio',
-    },
-    {
-      name: 'CONTACT',
-      url: '/contact',
-    },
+    {name: 'HOME', url: '/'},
+    {name: 'ABOUT', url: '/about'},
+    {name: 'BLOG', url: '/blog'},
+    {name: 'PORTFOLIO', url: '/portfolio'},
+    {name: 'CONTACT', url: '/contact'},
   ],
-  footerLinks: [
-    /* { name: "PRIVACY POLICY", url: "/privacy-policy" } */
-  ],
+  footerLinks: [{name: 'PRIVACY POLICY', url: '/privacy-policy'}],
   social: [
     {
       name: 'Twitter',
@@ -51,15 +34,16 @@ const siteMetadata = {
     {
       name: 'Youtube',
       icon: '/images/Youtube.svg',
-      url: '#',
+      url: 'https://www.youtube.com/channel/UC2pcOYosYqUODla4Wxy1QrA',
     },
   ],
   contact: {
-    /* Leave the below value completely empty (no space either) if you don't want a contact form. */
-    api_url: './test.json',
-    description: `Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed sit amet accumsan arcu. Proin ac consequat arcu.`,
-    mail: 'hi@akzhy.com',
-    phone: '000-000-0000',
+    // Leave the below value completely empty (no space either) if you don't want a contact form.
+    // api_url: './test.json',
+    api_url: '',
+    description: '...',
+    mail: 'hi@mail.com',
+    phone: '123-456-7890',
     address: '1234 \nLocation \nLocation',
   },
   // this is optional. you can uncomment this if you use disqus
@@ -67,16 +51,16 @@ const siteMetadata = {
 }
 
 const plugins = [
-  `gatsby-plugin-sharp`,
-  `gatsby-transformer-sharp`,
-  `gatsby-plugin-react-helmet`,
+  'gatsby-plugin-sharp',
+  'gatsby-transformer-sharp',
+  'gatsby-plugin-react-helmet',
   {
-    resolve: `gatsby-transformer-remark`,
+    resolve: 'gatsby-transformer-remark',
     options: {
       plugins: [
         'gatsby-remark-copy-linked-files',
         {
-          resolve: `gatsby-remark-images`,
+          resolve: 'gatsby-remark-images',
           options: {
             maxWidth: 1280,
           },
@@ -85,14 +69,14 @@ const plugins = [
     },
   },
   {
-    resolve: `gatsby-source-filesystem`,
+    resolve: 'gatsby-source-filesystem',
     options: {
-      name: `contents`,
+      name: 'contents',
       path: `${__dirname}/contents/`,
     },
   },
   {
-    resolve: `gatsby-plugin-less`,
+    resolve: 'gatsby-plugin-less',
     options: {
       strictMath: true,
     },
@@ -101,7 +85,7 @@ const plugins = [
 
 if (siteMetadata.disqus) {
   plugins.push({
-    resolve: `gatsby-plugin-disqus`,
+    resolve: 'gatsby-plugin-disqus',
     options: {
       shortname: siteMetadata.disqus,
     },
