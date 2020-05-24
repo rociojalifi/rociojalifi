@@ -1,9 +1,9 @@
 import React from 'react'
 import {Link} from 'gatsby'
 import Img from 'gatsby-image'
-import '../style/list-portfolio.less'
+import '../style/list-services.less'
 
-class PortfolioItem extends React.Component {
+class ServicesItem extends React.Component {
   render() {
     return (
       <div className="item col s12">
@@ -48,7 +48,7 @@ export default function(props) {
   const data = props.data.allMarkdownRemark.edges
   let items = []
   data.forEach(function(e, i) {
-    items.push(<PortfolioItem key={e.node.id} data={e} />)
+    items.push(<ServicesItem key={e.node.id} data={e} />)
   })
   return <div className="row">{items}</div>
 }

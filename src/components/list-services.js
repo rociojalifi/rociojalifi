@@ -1,12 +1,12 @@
 import React from 'react'
 import {useStaticQuery, graphql} from 'gatsby'
-import PortfolioItems from './items-portfolio'
+import ServicesItems from './items-services'
 
 export default function() {
   const query = useStaticQuery(graphql`
-    query portfolioList {
+    query servicesList {
       allMarkdownRemark(
-        filter: {fileAbsolutePath: {regex: "/portfolio/"}}
+        filter: {fileAbsolutePath: {regex: "/services/"}}
         limit: 6
         sort: {fields: [frontmatter___date], order: DESC}
       ) {
@@ -37,8 +37,8 @@ export default function() {
   `)
 
   return (
-    <section id="portfolio" className="container">
-      <PortfolioItems data={query} />
+    <section id="services" className="container">
+      <ServicesItems data={query} />
     </section>
   )
 }
