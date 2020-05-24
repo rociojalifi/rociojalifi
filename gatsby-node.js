@@ -61,8 +61,8 @@ exports.createPages = ({graphql, actions}) => {
           }
         }
       }
-      portfolio: allMarkdownRemark(
-        filter: {fileAbsolutePath: {regex: "/portfolio/"}}
+      services: allMarkdownRemark(
+        filter: {fileAbsolutePath: {regex: "/services/"}}
       ) {
         edges {
           node {
@@ -92,7 +92,7 @@ exports.createPages = ({graphql, actions}) => {
       limitPost: site {
         siteMetadata {
           blogItemsPerPage
-          portfolioItemsPerPage
+          servicesItemsPerPage
         }
       }
     }
@@ -115,21 +115,21 @@ exports.createPages = ({graphql, actions}) => {
       })
     })
 
-    const PortfolioItems = result.data.portfolio.edges
-    const PortfolioItemsPerPage =
-      result.data.limitPost.siteMetadata.portfolioItemsPerPage
-    const numPortfolioItems = Math.ceil(
-      PortfolioItems.length / PortfolioItemsPerPage,
+    const ServicesItems = result.data.services.edges
+    const ServicesItemsPerPage =
+      result.data.limitPost.siteMetadata.servicesItemsPerPage
+    const numServicesItems = Math.ceil(
+      ServicesItems.length / ServicesItemsPerPage,
     )
 
-    Array.from({length: numPortfolioItems}).forEach((_, i) => {
+    Array.from({length: numServicesItems}).forEach((_, i) => {
       createPage({
-        path: i === 0 ? `/portfolio` : `/portfolio/${i + 1}`,
-        component: path.resolve('./src/templates/portfolio-list.js'),
+        path: i === 0 ? `/services` : `/services/${i + 1}`,
+        component: path.resolve('./src/templates/services-list.js'),
         context: {
           limit: blogPostsPerPage,
           skip: i * blogPostsPerPage,
-          numPages: numPortfolioItems,
+          numPages: numServicesItems,
           currentPage: i + 1,
         },
       })
@@ -149,10 +149,10 @@ exports.createPages = ({graphql, actions}) => {
       })
     })
 
-    result.data.portfolio.edges.forEach(({node}) => {
+    result.data.services.edges.forEach(({node}) => {
       let template =
         node.frontmatter.template === undefined
-          ? 'portfolio'
+          ? 'services'
           : node.frontmatter.template
       createPage({
         path: node.fields.slug,
