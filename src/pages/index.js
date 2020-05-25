@@ -3,9 +3,9 @@ import Layout from '../components/layout'
 import {graphql} from 'gatsby'
 import SEO from '../components/seo'
 import SocialLinks from '../components/sociallinks'
-import ServicesList from '../components/list-services'
-import BlogList from '../components/list-blog'
-import Contact from '../components/contact'
+// import ServicesList from '../components/list-services'
+// import BlogList from '../components/list-blog'
+// import Contact from '../components/contact'
 import '../style/wall.less'
 
 class IndexPage extends React.Component {
@@ -71,7 +71,7 @@ class IndexPage extends React.Component {
 
   render() {
     return (
-      <Layout placeholder={false}>
+      <Layout placeholder={false} simpleFooter>
         <SEO lang="en" title={this.props.data.site.siteMetadata.title} />
         <div className="wall" style={{height: this.state.winHeight + 'px'}}>
           <div className="intro container">
@@ -125,17 +125,15 @@ class IndexPage extends React.Component {
             <p className="caption text-tertiary">
               {this.props.data.site.siteMetadata.description}
             </p>
-            <a href="#services" className="btn">
-              SEE WORKS
-            </a>
           </div>
           <div className="social-buttons">
             <SocialLinks />
           </div>
         </div>
-        <ServicesList />
-        <BlogList />
-        <Contact />
+        {/* This can be added back as it was originally if needed */}
+        {/* <ServicesList /> */}
+        {/* <BlogList /> */}
+        {/* <Contact /> */}
       </Layout>
     )
   }

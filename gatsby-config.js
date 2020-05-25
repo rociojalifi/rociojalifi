@@ -1,22 +1,22 @@
 const siteMetadata = {
-  title: `Rocio Jalifi`,
-  siteUrl: `http://localhost`,
+  title: 'Rocio Jalifi',
+  siteUrl: 'http://localhost',
   capitalizeTitleOnHome: true,
-  logo: `/images/avatar.png`,
-  icon: `/images/icon.png`,
-  titleImage: `/images/wall.jpg`,
-  introTag: `VLOGGER | NUTRITIONIST`,
-  description: `Eat good & live better`,
-  author: `@rojalifi`,
+  logo: '/images/avatar.png',
+  icon: '/images/icon.png',
+  titleImage: '/images/wall.jpg',
+  introTag: 'VLOGGER | NUTRITIONIST',
+  description: 'Eat good, live better',
+  author: '@rojalifi',
   blogItemsPerPage: 10,
   servicesItemsPerPage: 10,
   darkmode: false,
   switchTheme: true,
   navLinks: [
     {name: 'HOME', url: '/'},
-    {name: 'ABOUT', url: '/about'},
     {name: 'BLOG', url: '/blog'},
     {name: 'SERVICES', url: '/services'},
+    {name: 'ABOUT', url: '/about'},
     {name: 'CONTACT', url: '/contact'},
   ],
   footerLinks: [{name: 'PRIVACY POLICY', url: '/privacy-policy'}],
@@ -47,7 +47,7 @@ const siteMetadata = {
     address: '',
   },
   // this is optional. you can uncomment this if you use disqus
-  // disqus: `your-disqus-shortname`
+  // disqus: 'your-disqus-shortname'
 }
 
 const plugins = [

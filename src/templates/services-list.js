@@ -9,6 +9,7 @@ import SEO from '../components/seo'
 class ServicesList extends React.Component {
   render() {
     const query = this.props.datas
+
     if (query.allMarkdownRemark.edges.length > 0) {
       return (
         <section id="services" className="container">
@@ -49,6 +50,7 @@ export const query = graphql`
             title
             description
             date
+            order
             image {
               publicURL
               childImageSharp {
