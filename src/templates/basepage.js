@@ -1,9 +1,11 @@
 import React from 'react'
 import {graphql} from 'gatsby'
-import Layout from '../components/layout'
 import Img from 'gatsby-image'
+
+import Layout from '../components/layout'
 import SEO from '../components/seo'
 import '../style/basepage.less'
+import '../style/utility.less'
 
 export default function({data}) {
   return (
@@ -23,6 +25,7 @@ export default function({data}) {
               <div className="center">
                 <div className="img">
                   <Img
+                    className="rounded"
                     fluid={
                       data.markdownRemark.frontmatter.image.childImageSharp
                         .fluid
