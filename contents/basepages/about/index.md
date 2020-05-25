@@ -1,33 +1,33 @@
 ---
 title: About
 template: basepage
-image: ./image.png
+image: ./about.jpg
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor
-incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis
-nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
-Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu
-fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in
-culpa qui officia deserunt mollit anim id est laborum.
+## Hi there,
+
+I’m from Buenos Aires, Argentina but currently based in Amsterdam, The
+Netherlands. I studied in the River Plate Adventist University and I got a
+Bachelor degree in Nutrition. I've been most of my life into food stuff so since
+I got my degree I've been working in the food indutry in different ways:
+creating new products, recipes and giving nutritional education to the community
+to prevent food diseases.
 
 ## My story
 
-_Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-tempor_ incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum
-dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident,
-sunt in culpa qui officia deserunt mollit anim id est laborum.
+I’ve been vegetarian almost my whole life but nevertheless my nutrition wasn’t
+the best. Because of poor nutrition habits I got a bad infection in different
+parts of my body, so I decided that I needed a change in my lifestyle.
 
-- Vegetables
-- Vegan cheese
-- Falafel
-- Chiki nuggies
+This disease woke up even more the desire to learn more about nutrition. I
+wanted to continue eating tasty but without harming my body.
 
-### Ingredients
+That's when I started my path into a better lifestyle. Through this way I made a
+lot of mistakes until I learnt that living a healthy lifestyle is not just
+eating good food, but also working on healthy choices to grow yourself socially,
+mentally and spiritualy.
 
-1. Vegetables
-1. Vegan cheese
-1. Falafel
-1. Chiki nuggies
+Only a holistic lifestyle can help you on reaching the best living.
+
+That's because I want to open this space to create a community where we can help
+eachother across this way of trying to get the best life.
