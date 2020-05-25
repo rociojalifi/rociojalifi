@@ -45,10 +45,16 @@ class ServicesItem extends React.Component {
 }
 
 export default function(props) {
-  const data = props.data.allMarkdownRemark.edges
-  let items = []
-  data.forEach(function(e, i) {
-    items.push(<ServicesItem key={e.node.id} data={e} />)
-  })
-  return <div className="row">{items}</div>
+  return (
+    <div className="row">
+      {props.data.allMarkdownRemark.edges
+        .slice(0)
+        .sort((a, b) =>
+          a.node.frontmatter.order > b.node.frontmatter.order ? 1 : -1,
+        )
+        .map((e, i) => (
+          <ServicesItem key={e.node.id} data={e} />
+        ))}
+    </div>
+  )
 }
