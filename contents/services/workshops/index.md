@@ -1,16 +1,10 @@
 ---
 title: Workshops
-description: Are you interested in a nutrition talk or workshop at your company, sports club, school, or with your group of friends?
+description: Nutrition talks and workshops at your company, sports club, school, or with a group of friends.
 date: 2020-05-20
 template: service
 image: ./ws_service_4.jpg
 order: 2
----
-
----
-
-title: Workshops description: Are you interested in a nutrition talk or workshop at your company, sport club, school, or with your group of friends? date: 2020-05-20 template: service image: ./ws_service_4.jpg order: 2
-
 ---
 
 ### On-site Workshops

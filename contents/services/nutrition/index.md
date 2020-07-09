@@ -1,5 +1,5 @@
 ---
-title: Nutrition advice
+title: Nutritional advice
 description: What is a normal and healthy food-pattern for me?
 date: 2020-05-20
 template: service

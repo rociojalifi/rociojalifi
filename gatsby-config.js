@@ -21,20 +21,20 @@ const siteMetadata = {
   ],
   footerLinks: [{name: 'PRIVACY POLICY', url: '/privacy-policy'}],
   social: [
-    {
-      name: 'Twitter',
-      icon: '/images/Twitter.svg',
-      url: 'https://twitter.com/rojalifi',
-    },
+    // {
+    //   name: 'Twitter',
+    //   icon: '/images/Twitter.svg',
+    //   url: 'https://twitter.com/rojalifi',
+    // },
     {
       name: 'Instagram',
       icon: '/images/Instagram.svg',
-      url: 'https://www.instagram.com/thisisroci',
+      url: 'https://bit.ly/senoritanutrition',
     },
     {
       name: 'Youtube',
       icon: '/images/Youtube.svg',
-      url: 'https://www.youtube.com/channel/UC2pcOYosYqUODla4Wxy1QrA',
+      url: 'https://bit.ly/rocio-jalifi-youtube',
     },
   ],
   contact: {
