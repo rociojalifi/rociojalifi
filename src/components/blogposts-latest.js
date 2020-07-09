@@ -17,6 +17,7 @@ export default function(props) {
               title
               description
               date
+              published
               image {
                 publicURL
                 childImageSharp {
@@ -36,7 +37,13 @@ export default function(props) {
       }
     }
   `)
-  if (query.allMarkdownRemark.edges.length > 0) {
+
+  const hasMorePosts =
+    query.allMarkdownRemark.edges
+      .filter((e) => e.node.id !== props.id)
+      .filter((e) => e.node.frontmatter.published).length > 0
+
+  if (hasMorePosts) {
     return (
       <section id="latest-blogposts" className="container">
         <div className="section-title">

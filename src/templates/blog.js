@@ -19,6 +19,22 @@ export default function({data, location}) {
       />
       <div className="container">
         <article className="blog-post">
+          {data.markdownRemark.frontmatter.published ? null : (
+            <div
+              style={{
+                border: '2px solid red',
+                marginBottom: 20,
+                padding: 10,
+                backgroundColor: 'rgba(220, 24, 240, 0.1)',
+              }}
+            >
+              <strong>Unpublished Post!</strong>{' '}
+              <small>
+                This URL is public but secret which I will publish in the
+                future. Please do not share it yet.
+              </small>
+            </div>
+          )}
           {data.markdownRemark.frontmatter.banner != null && (
             <div className="banner">
               <Img
@@ -62,6 +78,7 @@ export const query = graphql`
         title
         date
         description
+        published
         image {
           publicURL
           childImageSharp {

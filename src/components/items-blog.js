@@ -63,11 +63,14 @@ class BlogItem extends React.Component {
 }
 
 export default function(props) {
-  const data = props.data.allMarkdownRemark.edges
-  let items = []
-  data.forEach(function(e, i) {
-    if (props.remove && e.node.id === props.remove) return
-    items.push(<BlogItem key={e.node.id} data={e} />)
-  })
-  return <div className="row">{items}</div>
+  return (
+    <div className="row">
+      {props.data.allMarkdownRemark.edges
+        .filter((e) => (props.remove ? e.node.id !== props.remove : true))
+        .filter((e) => e.node.frontmatter.published)
+        .map((e) => (
+          <BlogItem key={e.node.id} data={e} />
+        ))}
+    </div>
+  )
 }

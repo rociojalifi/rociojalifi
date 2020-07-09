@@ -5,7 +5,7 @@ const siteMetadata = {
   logo: '/images/avatar.png',
   icon: '/images/icon.png',
   titleImage: '/images/wall.jpg',
-  introTag: 'VLOGGER | NUTRITIONIST',
+  introTag: 'LIFESTYLE VLOGS | NUTRITION CONTENT ',
   description: 'Eat good, live better',
   author: '@rojalifi',
   blogItemsPerPage: 10,
