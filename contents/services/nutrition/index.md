@@ -25,7 +25,7 @@ Is also a possibility to have a very comprehensive nutrition plan drawn up, full
 
 #### Rates
 
-- Personal Nutrition Plans: This is depending on the type of plan. If it is a long term or short term plan. You can send you inquires via email.
+- Personal Nutrition Plans: From €180 per month (this is depending on the type of plan. If it is a long term or short term plan. You can send you inquires via email.)
 
 - Introduction: Free
 
