@@ -8,7 +8,7 @@ published: true
 description: Carbohydrates aren't bad, but some may be healthier than others. See why carbs are important for your health and which ones to choose.
 ---
 
-### What are the Carbohidrates?
+### What are the Carbohydrates?
 
 > "Carbohydrates are macronutrients, meaning they are one of the three main ways the body obtains energy, or calories". They are called carbohydrates because, at the chemical level, they contain carbon, hydrogen and oxygen. The recommended daily amount (RDA) depends of your body and your goals. But you have to know that the amount we need should be between 45% and 65% of the total calories.
 
