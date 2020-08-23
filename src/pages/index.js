@@ -130,6 +130,24 @@ class IndexPage extends React.Component {
             <SocialLinks />
           </div>
         </div>
+
+        {/* <div
+          style={{
+            width: '100%',
+            display: 'flex',
+            justifyContent: 'center',
+            marginBottom: 20,
+          }}
+        >
+          <iframe
+            src="https://rociojalifi.substack.com/embed"
+            width="360"
+            height="120"
+            style={{background: 'transparent'}}
+            frameborder="0"
+            scrolling="no"
+          />
+        </div> */}
         {/* This can be added back as it was originally if needed */}
         {/* <ServicesList /> */}
         {/* <BlogList /> */}
