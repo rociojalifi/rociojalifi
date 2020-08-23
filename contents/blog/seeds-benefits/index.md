@@ -62,11 +62,10 @@ Seeds possess important cholesterol-fighting fibres known as [lignans](https://e
 
 I have found clever ways to include seeds in my daily culinary choices. I often start the day with a chia bowl, that includes chia seeds (duh!), and sesame or flax seeds. I might enjoy a sprouted-seed pâté to give more give more flavor to the luch main dish. My salad typically contains a sprinkle quinoa seeds (raw or roasted) with some veggie burger and ,of course, vegetables.
 
-I have a lot of recipes to share with you! Check out on my [instagram](https://bit.ly/senoritanutrition) to see them!
+---
 
-<br />
-<br />
+I have a lot of recipes to share with you! Check out on my [instagram](https://bit.ly/senoritanutrition) to see them!
 
 Footnotes
 
-- <span id="1">1</span>: [https://en.wikipedia.org/wiki/Seed](https://en.wikipedia.org/wiki/Seed)
+- <span id="1">1</span>: [Wikipedia: Seed](https://en.wikipedia.org/wiki/Seed)

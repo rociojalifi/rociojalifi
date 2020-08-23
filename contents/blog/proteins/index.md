@@ -22,13 +22,13 @@ These foods also tend to be high in things that place a toxic burden on the body
 
 After water, protein is the main component of cells and is essential to life. Protein is used to build and maintain these parts of our body:
 
-- Muscles: Those responsible for movement and the muscles around our organs and our heart.
-- Collagen: Provides strength and structure to tissues (e.g. cartilage in joints).
-- Skin, hair, and nails: These are mainly composed of protein.
-- Hemoglobin: Transports oxygen around the body.
-- Hormones: Act as your body’s chemical messengers.
-- Enzymes: Regulate metabolism - they support important chemical reactions that allow you to digest food, generate energy to contract muscles, and regulate insulin production.
-- Antibodies: Play a role in your immunity.
+- <ins>Muscles</ins>: Those responsible for movement and the muscles around our organs and our heart.
+- <ins>Collagen</ins>: Provides strength and structure to tissues (e.g. cartilage in joints).
+- <ins>Skin, hair, and nails</ins>: These are mainly composed of protein.
+- <ins>Hemoglobin</ins>: Transports oxygen around the body.
+- <ins>Hormones</ins>: Our body’s chemical messengers.
+- <ins>Enzymes</ins>: Regulate the metabolism - they support important chemical reactions all over the body that allow you to digest food, generate energy to contract muscles, and regulate insulin production.
+- <ins>Antibodies</ins>: Play a role in your immunity.
 
 After the age of 50, unless we act to prevent it, we may lose 1% of muscle mass each year and with it, muscle strength. It’s important to maintain muscle mass because it’s what helps keep us strong and keep us moving – and that’s what helps contribute to living a full and active life. Combining adequate dietary protein spread over the day with resistance exercise training using all the major muscle groups helps maintain muscle mass.
 
@@ -46,14 +46,13 @@ It’s also possible to get all of the essential amino acids by combining other 
 
 You can even get your protein in healthy snacks like a handful of nuts, a green smoothie, or any other snack free of additives, GMO ingredients, and artificial colors and flavoring.
 
-Protein is one of the most fundamental and vital nutrients we need for health. Make sure you fuel your body with the best sources to keep it running!
+Proteins are one of the most fundamental and vital nutrients we need for health. Make sure you fuel your body with the best sources to keep it running! 💪
 
-I have a lot of recipes to share with you! Check out on my [instagram](https://bit.ly/senoritanutrition) to see them!
+---
 
-<br />
-<br />
+I you are looking to include proteins in your diet in a healthy and balanced way check out my [instagram](https://bit.ly/senoritanutrition)!
 
 Footnotes
 
-- <span id="1">1</span>: "Nutricion Vitalizante", Nestor Palmeti.
-- <span id="2">2</span>: "Nutricion Vitalizante", Nestor Palmeti.
+- <span id="1">1</span>: [Nutricion Vitalizante by Nestor Palmeti](https://nestorpalmetti.com/libros/libro-nutricion-vitalizante/). Original in Spanish, translated by me.
+- <span id="2">2</span>: [Nutricion Vitalizante by Nestor Palmeti](https://nestorpalmetti.com/libros/libro-nutricion-vitalizante/). Original in Spanish, translated by me.
