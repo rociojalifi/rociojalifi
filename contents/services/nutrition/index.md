@@ -33,17 +33,17 @@ Is also a possibility to have a very comprehensive nutrition plan drawn up, full
 
 * Digital coaching:
 
-* Per 15 minutes €15
-* Per 30 minutes €26
-* Per 60 minutes €50
-* Per month €180 ( max. 4 questions per day).
+* Per 15 minutes €10
+* Per 30 minutes €20
+* Per 60 minutes €45
+* Per month €160.
 
 * Feedback on food diaries:
 
-* 1 week food diary (up to 7 days) €70
-* 2 weeks food diary (up to 14 days) €100
-* 3 weeks food diary (up to 21 days) €145
-* 4 weeks / 1 month (full monthly food diaries) (28 to 31 days) €190.
+* 1 week food diary (up to 7 days) €50
+* 2 weeks food diary (up to 14 days) €80
+* 3 weeks food diary (up to 21 days) €120
+* 4 weeks / 1 month (full monthly food diaries) (28 to 31 days) €160.
 
 ##### Do you need help?
 
