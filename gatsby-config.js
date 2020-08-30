@@ -36,6 +36,11 @@ const siteMetadata = {
       icon: '/images/Youtube.svg',
       url: 'https://bit.ly/rocio-jalifi-youtube',
     },
+    {
+      name: 'Facebook',
+      icon: '/images/Facebook.svg',
+      url: 'https://www.facebook.com/senoritanutrition',
+    },
   ],
   contact: {
     // Leave the below value completely empty (no space either) if you don't want a contact form.
