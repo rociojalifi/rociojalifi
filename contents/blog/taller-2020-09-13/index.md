@@ -1,6 +1,6 @@
 ---
 title: ¿Estoy comiendo sano?
-date: 2020-07-09
+date: 2020-09-07
 template: blog
 image: ./taller.png
 banner: ./fats_2.jpg
