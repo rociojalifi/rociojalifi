@@ -20,7 +20,7 @@ Además, presentaré un menú simple que puedes cocinar en tu casa, algo que es 
 
 Para participar en este taller no necesitas ningún conocimiento previo en nutrición.
 
-El taller será en [Google Meet](https://meet.google.com) así que para participar necesitaras una cuenta de Google.
+El taller será en [Google Meet](https://meet.google.com) a las 18:00 horas, así que para participar necesitaras una cuenta de Google.
 
 Aquí está el link al evento. Lo podes copiar o hacer clic aquí:
 
@@ -30,4 +30,4 @@ Estaré online unos minutos antes así todos pueden unirse a tiempo.
 
 Una vez que el evento haya comenzado te pido encarecidamente que apagues tu micrófono, a no ser que sea un momento para debatir entre todos o hacer preguntas.
 
-¡Te espero!
+#### ¡Te espero!
