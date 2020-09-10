@@ -20,7 +20,7 @@ Also, I will present a simple menu you can cook at home, which will help you to 
 
 To join this workshop you don't need previous knowledge in nutrition.
 
-The workshop will be held on [Google Meet](https://meet.google.com) at 16:00 hours so to attend you need a Google account.
+The workshop will be held on [Google Meet](https://meet.google.com) at 16:00 hours, so to attend you need a Google account.
 
 Here is the link to the event. You can copy it or click here:
 
