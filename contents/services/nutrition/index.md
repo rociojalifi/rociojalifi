@@ -9,61 +9,70 @@ order: 1
 
 ### Introduction
 
-Learning to maintain a healthy diet needs more explanation, coaching & guidance than just giving nutritional advice (including feedback on the food diary) and an example daily menu or diet plan. So many factors come into play. Therefore I use a holistic approach (holistic medicine involves the entire individual. The 'whole' looks at more factors than just nutrition).
+Learning to maintain a healthy diet needs more explanation, coaching & guidance than just giving nutritional advice (including feedback on the food diary) and an example daily menu or diet plan. So many factors come into play. Therefore I use a holistic approach (which involves the entire individual. The 'whole' looks at more factors than just nutrition).
 
-Is also a possibility to have a very comprehensive nutrition plan drawn up, fully composed, and calculated on personal goals, lifestyle, and health complaints. You will always receive personal advice, no standard nutrition schedules.
+It is also a possibility to have a very comprehensive nutrition plan drawn up, fully composed, and calculated on personal goals, lifestyle, and health complaints. You will always receive personal advice, no standard nutrition schedules.
 
-#### Services
+#### New Client Plan
 
-- Personal nutrition plans (including a complete intake form or without intake form): drawn up concisely a daily menu (for example intolerances, vegetarian/vegan plan, sports nutrition, weight loss, weight gain, etc.). This service includes an introduction and an intake process.
-- Introduction: Max. 10-15 minutes (if the meeting has been made by appointment and within 24h before the call is canceled or there is no response, you will be charged €15).
-- Intake: 40 - 60 minutes. This intake form provides personalized advice through information about your situation and what are your expectations.
+As a new client, you'll begin with three sessions designed to deep dive into your goals, health history, and lifestyle. You'll receive personalized nutrition plans with several other resources so you feel confident moving forward. After these three sessions, I can continue to support you with follow-up coaching, providing you with additional guidance as you develop new habits and navigate life's challenges.
 
-* Digital coaching: via chat, telephone, Facetime or Skype (direct time, indirect timekeeping client file is included).
+#### Session #1 - Initial Consultation
 
-* Feedback on food diaries: per day, per week, per month via e-mail.
+This Initial Consultation is a 60-minute session where we discuss your vision of health, set goals, and lay the framework from which we’ll use for our entire coaching relationship.
 
-#### Rates
+We’ll do a deep dive into your questionnaire, food log, dietary assessment, past medical history, education individualized to your focus area, and wrap up with agreeing upon several foundational goals to get you on track and feeling great!
 
-- Personal Nutrition Plans: From €180 per month (this is depending on the type of plan. If it is a long term or short term plan. You can send you inquires via email.)
+###### What’s included
 
-- Introduction: Free
+- Coaching sessions are virtual
+- Dietary assessment
+- Lifestyle assessment
+- Wellness vision and weekly goal setting to create a coaching roadmap
+- Health objectives and “healthy homework assignments" to work on between our sessions
+- Feedback on food diaries: per day, per week, or month via e-mail
 
-- Intake: €60
+#### Session 2 - Nutrition Plan
 
-* Digital coaching:
+After you’ve completed the Initial Consultation and have put into action your foundational goals for at least one week, you’re ready for your 2nd appointment which is all about the nutrition plan and education about nutrition, how to nourish your body, and eat well for life.
 
-* Per 15 minutes €10
-* Per 30 minutes €20
-* Per 60 minutes €45
-* Per month €160.
+In this 60-minute session, we’ll go over the nutrition plan created for you after learning all about your specific goals. We’ll cover how to assess hunger cues, mind-body connection, and how to perform daily check-ins — whatever is best to meet your individual needs.
 
-* Feedback on food diaries:
+###### What’s included:
 
-* 1 week food diary (up to 7 days) €50
-* 2 weeks food diary (up to 14 days) €80
-* 3 weeks food diary (up to 21 days) €120
-* 4 weeks / 1 month (full monthly food diaries) (28 to 31 days) €160.
+- Specific education related to your goals
+- Nutrition Plan
+- Lifestyle Plan (at the discretion of the coach)
+- Recipes of snacks, portion control, travel ideas, dining out, etc.
+- Grocery shopping lists as needed
+- Meal Plan Chart (fillable)
+- Weekly goal setting
+- Healthy homework assignments
 
-##### Do you need help?
+#### Session 3 - Follow Up
 
-- Feeling tired / low energy levels.
-- Constipation / diarrhea - Digestion problems.
-- Overweight.
-- Underweight.
-- Malnutrition.
-- Behavior changes (Changing habits, nutrition, and lifestyle).
-- Sports nutrition.
-- Building muscle mass.
-- Quit smoking and eat healthily.
-- Refined Sugar-Free diet - Sugar addiction.
-- Natural / Organic food plan.
-- Paleo Diet / Low Carb.
-- Vegetarian diet.
-- Vegan diet.
-- Detox.
-- Personal Nutrition plan (Personal Goals).
-- Stress / Burn out and Food.
-- Dietitian & Personal Training.
+After you’ve completed your second appointment, we'll have a follow-up session to see how things are working, what challenges you might be facing, and how to progress forward.
 
-Do you have different health problems or questions about nutrition and lifestyle, other than mentioned above? Send me an email with your questions!
+This follows up session will adjust depending on your needs.
+
+It may include specific nutrition education topics you want to learn about, customized meal plans (i.e. updates to your nutrition plan), functional nutrition and health strategies, healthy cooking education, motivational techniques, and more.
+
+#### START MAKING PROGRESS TODAY!
+
+- 1 session: €50
+
+- 3 session package: €119 / month (for 3 months).
+
+  - 3 months care.
+  - Three, 60 minutes consultations.
+  - Everything in the "What's included" menu above.
+
+- 6 session package: €98 / month (for 6 months).
+  - Save €126.
+  - 6 months of coaching and care.
+  - Three, 60 minutes consultation.
+  - Five, 20 minutes Follow up Sessions.
+  - Everything in the "What's included" menu above.
+  - Unlimited messaging and support
+
+##### LET'S WORK TOGETHER ♡

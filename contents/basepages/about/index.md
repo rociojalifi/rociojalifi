@@ -16,4 +16,8 @@ The disease inspire me to learn about nutrition. I wanted to continue eating tas
 
 From that moment onwards, I started a path into a better lifestyle. Through this process, I made a lot of mistakes until I learned that living a healthy lifestyle is not just eating good food, but also it has to do on working on healthy choices to grow yourself socially, mentally and spiritually.
 
-I believe that only a holistic lifestyle can help you to reach the best living.
+I support my clients by cultivating a healthier relationship with food and working alongside my clients to overcome disordered eating habits.
+
+I also enjoy working with women of all ages to support women’s health (family planning, pregnancy, and family nutrition).
+
+###### Let's get in touch ♡
