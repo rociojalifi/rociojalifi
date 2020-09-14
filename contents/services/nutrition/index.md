@@ -59,20 +59,40 @@ It may include specific nutrition education topics you want to learn about, cust
 
 #### START MAKING PROGRESS TODAY!
 
-- 1 session: €50
+[row]
 
-- 3 session package: €119 / month (for 3 months).
+[col]
 
-  - 3 months care.
+1 session €50
+
+[/col]
+
+[col]
+
+9 sessions package
+
+- €119 / month (for 3 months).
+
+  - 3 months of care.
   - Three, 60 minutes consultations.
   - Everything in the "What's included" menu above.
 
-- 6 session package: €98 / month (for 6 months).
+[/col]
+
+[col]
+
+18 sessions package
+
+- €98 / month (for 6 months).
   - Save €126.
   - 6 months of coaching and care.
   - Three, 60 minutes consultation.
   - Five, 20 minutes Follow up Sessions.
   - Everything in the "What's included" menu above.
   - Unlimited messaging and support
+
+[/col]
+
+[/row]
 
 ##### LET'S WORK TOGETHER ♡
