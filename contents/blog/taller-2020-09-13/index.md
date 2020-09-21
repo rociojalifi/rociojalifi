@@ -4,7 +4,7 @@ date: 2020-09-07
 template: blog
 image: ./taller.png
 banner: ./fats_2.jpg
-published: true
+published: false
 description: En este curso nos vamos a enfocar en como comer sanamente y como identificar si nos faltan nutrientes en nuestra dieta.
 ---
 

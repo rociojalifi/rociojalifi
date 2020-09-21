@@ -4,7 +4,7 @@ date: 2020-09-07
 template: blog
 image: ./workshop.png
 banner: ./fats_2.jpg
-published: true
+published: false
 description: In this course, we are going to focus on real food and how to identify if we are missing nutrients in our diet
 ---
 
