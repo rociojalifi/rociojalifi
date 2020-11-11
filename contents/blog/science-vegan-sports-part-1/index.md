@@ -56,7 +56,7 @@ If you want to read more about <a href="https://rociojalifi.com/blog/carbohydrat
 
 ### Final thoughts
 
-When it comes to the vegetarian sports population, the diet requires careful adjustment and adjustment in order to cover all needs and not lead to any deficit. There are key points to which special attention must be paid in this type of diet. Energy intake is generally lower in the vegetarian population compared to omnivorous diets. However, proper diet planning will meet these demands[^2].
+When it comes to the vegetarian sports population, the diet requires careful adjustment in order to cover all needs and not lead to any deficit. There are key points to which special attention must be paid in this type of diet. Energy intake is generally lower in the vegetarian population compared to omnivorous diets. However, proper diet planning will meet these demands[^2].
 
 As for dietary protein, it is less bioavailable and some foods are limited in certain amino acids. However, good use of food and a suitable combination of them will be able to cover the needs[^3].
 
