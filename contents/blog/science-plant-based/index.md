@@ -1,5 +1,5 @@
 ---
-title: Behind Science
+title: Is a vegan/vegetarian diet healthy?
 date: 2020-11-01
 template: blog
 image: ./plant-based.jpg
