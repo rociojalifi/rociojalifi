@@ -3,7 +3,7 @@ title: Vegetarian eating patterns and sports - Part II
 date: 2020-11-15
 template: blog
 image: ./sport.jpg
-banner: ./meal-plan.jpg
+banner: ./bannerjpg
 published: true
 description: Vegetarian diet and sports performance
 ---
@@ -53,7 +53,6 @@ Whole grains, dried fruits, seeds, beans are rich in zinc, but contain a large n
 
 For athletes who maintain a vegetarian diet, it is difficult to concentrate this micromineral in plasma, due to the constant exercise that leads to urinary loss. Therefore, the daily intake of zinc is 12 mg/day in women and 16.5 mg/day in men. (B & Julieta, 2013).
  
-
 ### Calcium
 
 > It is a mineral of great importance. It keeps teeth and bones in good condition. Calcium is found in various fortified and plant-based foods (Andreu Ivorra, 2016).
@@ -61,7 +60,6 @@ For athletes who maintain a vegetarian diet, it is difficult to concentrate this
 #### Foods with Calcium content
 
 Kale, Chinese chard, Chinese broccoli, turnip greens provide calcium in high bioavailability, fortified soy drink, fruit juice, almonds, figs, and all foods derived from soy are an additional source of calcium ( Canada, 2005).
-
 
 ### Vitamin B12
 
@@ -72,7 +70,6 @@ Kale, Chinese chard, Chinese broccoli, turnip greens provide calcium in high bio
 The foods that are a source of this vitamin come from animal origin. However they can be found in fortified foods such as nutritional yeast, algae, spirulina, and soy drink.
 
 The consumption of vitamin B12 is deficient in vegetarian diets. Therefore, the vegetarian population must use supplements to reach the recommended doses of vitamin B12, in vegetarians 3.09 μg / day, in women and men 2.4 μg / day.
-
  
 ### Antioxidants
 
@@ -87,7 +84,6 @@ Vegetarian diets provide a greater amount of antioxidants such as vitamin C, vit
 > It is known to be a nitrogen compound that is located in muscle tissue, The synthesis in the body of the person is 1 g / day, but it is required mostly in 2 g / day in athletes (Olivos et al., 2012).
 
 Currently, its supplementation helps to improve the performance of a high-intensity athlete, as well as gaining muscle mass (B & Julieta, 2013).
-
 
 ### Omega 3
 
