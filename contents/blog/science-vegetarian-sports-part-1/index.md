@@ -1,5 +1,5 @@
 ---
-title: Vegan diet and sports - Part I
+title: Vegetarian eating patterns and sports - Part I
 date: 2020-11-11
 template: blog
 image: ./sport-news-1.jpg
