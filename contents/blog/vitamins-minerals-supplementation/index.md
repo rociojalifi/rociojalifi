@@ -31,27 +31,27 @@ For supplements and diet food labels, a value is selected for each nutrient, kno
 
 ## Effects of supplements on health
 
-**Increase nutrient intake** : consuming a multivitamin/mineral supplement increases nutrient intake and allows people to get the recommended amounts of vitamins and minerals when they can't, or don't cover, these needs only with food. However, consumption of a multivitamin/mineral supplement can also increase the chance of receiving an excessive amount of certain nutrients, such as iron, vitamin A, zinc, niacin,  folic acid, and calcium.
+**Increase nutrient intake**:consuming a multivitamin/mineral supplement increases nutrient intake and allows people to get the recommended amounts of vitamins and minerals when they can't, or don't cover, these needs only with food. However, consumption of a multivitamin/mineral supplement can also increase the chance of receiving an excessive amount of certain nutrients, such as iron, vitamin A, zinc, niacin,  folic acid, and calcium.
 
-**Health promotion and prevention of chronic diseases** : It is more likely that those who have healthier diets and lifestyles take dietary supplements, making it difficult to identify the benefits of multivitamin/mineral supplements.
+**Health promotion and prevention of chronic diseases**:It is more likely that those who have healthier diets and lifestyles take dietary supplements, making it difficult to identify the benefits of multivitamin/mineral supplements.
 
 ![home](./food.jpg)
 
-## Should I take a supplement?
+## Should I take supplements?
 
 Multivitamin/mineral supplements must not replace the variety of foods. Food not only provides vitamins and minerals, they also contain fibers and other nutrients that have positive effects on health. But for individuals who don't get enough vitamins and minerals just from food, consume low-calorie diets, have little appetite, or do not eat certain foods, might consider a supplement multivitamin/mineral. 
 
-Multivitamin/mineral supplements  can be also recommended to patients with certain medical conditions such as:
+Multivitamin/mineral supplements can also be recommended to patients with certain medical conditions such as.
 
-- Women of reproductive age: With folic acid. It reduces the risk of birth defects in the brain and spinal column in the newborn.
-- Pregnant women: With iron. If the doctor prescribes it because there is a deficiency.
-- Post-menopausal woman: Calcium and vitamin D to strengthen bones. Also with medical prescriptions.
-- People over 50: They may not be able to absorb nutrients properly so the doctor may recommend supplements.
+- **Women of reproductive** age may lack folic acid which reduces the risk of birth defects in the brain and spinal column in the newborn.
+- **Pregnant women** often experience lack of iron. The doctor may prescribe iron supplements because of deficiency.
+- **Post-menopausal woman**: Calcium and vitamin D to strengthen bones. It should be provided with medical prescriptions.
+- **People over 50** might not be able to absorb nutrients properly and could need calcium and vitamin D supplements.
 
 
 ### In what cases is it recommended?
 
-According to the Dietary Guidelines, individuals must get most of their nutrients from food. Food contains vitamins, minerals, dietary fibers, and other substances beneficial to health.
+According to dietary guidelines, individuals should get most of their nutrients from food. Food contains vitamins, minerals, dietary fibers, and other substances beneficial to health.
 
 They are recommended when, despite following a balanced diet, there are deficiencies of one or more nutrients in the body. But these deficits must be correctly diagnosed with the relevant tests by a doctor or a specialist who will guide us in the treatment.
 

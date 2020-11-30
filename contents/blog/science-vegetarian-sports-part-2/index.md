@@ -107,7 +107,7 @@ Professional nutritionists must educate individuals who take the option of start
 
 ![photo](./photo_final.jpg)
 
-Do you need some help with you meal plans? You can check out <a href="https://rociojalifi.com/services/nutrition/" target="_blank" rel="noopener noreferrer">my services </a> and I'll be happy to help you! 
+Do you need help with your eating patterns? You can check out <a href="https://rociojalifi.com/services/nutrition/" target="_blank" rel="noopener noreferrer">my services </a> and I'll be happy to help you! 
 
 ### Sources
 
