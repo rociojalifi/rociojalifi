@@ -1,10 +1,10 @@
 ---
-title: Insulin nullifies Growth Hormone
+title: Pre & post-workout meals considered dangerous
 date: 2020-12-08
 template: blog
 image: ./balanza.jpg
 banner: ./meal_2.jpg
-published: true
+published: false
 description: By maintaining insulin low, consuming a healthy fats and a moderate amount of protein, you will turn on necessary protein synthesis, mobilize fat, and take full advantage of growth hormone.
 ---
 
@@ -22,7 +22,7 @@ The other thing that most people do is to eat high concentrated protein, like wh
 
 ### What insulin does? 
 
-it stops the fat-burning completely. So every time you're taking whey protein or having a snack (especially when they are low in fiber), you're actually raising insulin. So why would you want to eat before doing exercise if your goal is to burn fat and increase GH (growth hormone)?
+It stops the fat-burning completely. So every time you're taking whey protein or having a snack (especially when they are low in fiber), you're actually raising insulin. So why would you want to eat before doing exercise if your goal is to burn fat and increase GH (growth hormone)?
 
 When your goal is to lose body fat or gain muscle mass, is all about calories in and calories out. You can have 1,2,3,4,5,6 meals per day with the total amount of calories you need per day to reach your goal. Just keep in mind that every time you have a meal, you activate your insulin hormones. So If you want to keep the insulin low, you need to watch out for the number of meals you have per day.
 
