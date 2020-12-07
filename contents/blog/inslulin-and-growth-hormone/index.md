@@ -43,10 +43,15 @@ When you exercise you induce a stress event that breaks down your muscle and it 
 ## Key points
 
 1. The benefits of exercise actually occur 24 to 48 hours after your exercise in a deep sleep. So part of a good strategy is getting good sleep.
+
 1. You need to minimize the insulin while you sleep and this will have an effect on maximizing growth hormone during sleep. There should be a gap of at least 3 hours or so between your last meal and your sleep.
+
 1. If you are not in the exceptions that I mentioned at the beginning of the article, and only interested in average health benefits, I recommend you consume healthy carbs with fiber, healthy fats, and a moderate amount of protein in breakfast.
+
 1. Strategize intelligently your last meal of the day if you are planning to exercise before breakfast. 
-1. Eat fibre! They are in vegetables, fruits, seeds, nuts, legumes, and whole grains
+
+1. Eat fiber! They are in vegetables, fruits, seeds, nuts, legumes, and whole grains
+
 1. GH is trigger by exercise, sleep, and low levels of insulin. Focus on improving these to maximize your goals!
 
 ## Final thoughts
