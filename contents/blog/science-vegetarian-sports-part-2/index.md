@@ -1,5 +1,5 @@
 ---
-title: Vegetarian eating patterns and sports - Part II
+title: Vegetarian eating patterns and sports II
 date: 2020-11-15
 template: blog
 image: ./sport.jpg
