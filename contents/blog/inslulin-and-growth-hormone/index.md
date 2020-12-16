@@ -2,7 +2,7 @@
 title: Pre & post-workout meals, do you need them?
 date: 2020-12-08
 template: blog
-image: ./balanza.jpg
+image: ./sport.jpg
 banner: ./meal_2.jpg
 published: true
 description: By maintaining insulin low, consuming a healthy fats and a moderate amount of protein, you will turn on necessary protein synthesis, mobilize fat, and take full advantage of growth hormone.
