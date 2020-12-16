@@ -5,7 +5,7 @@ template: blog
 image: ./sport.jpg
 banner: ./meal_2.jpg
 published: true
-description: By maintaining insulin low, consuming a healthy fats and a moderate amount of protein, you will turn on necessary protein synthesis, mobilize fat, and take full advantage of growth hormone.
+description: By maintaining insulin low, consuming healthy fats, and moderate amount of protein, you will turn on necessary protein synthesis, mobilize fat, and take full advantage of growth hormone.
 ---
 
 If you go to the gym or exercise regularly, chances are you heard that you need to have a pre-workout meal or protein shake as a post-workout to fill your glycogen reserve and help to build more muscle mass. Gotta get those gains, am I right? I lost count already of how many times I advised this to my clients and I did it myself. Looking for  different points of view, based on scientific studies, helped me gain more clear knowledge about this topic. Because, when it is about nutrition, there are so many exceptions, and each one of them should be treated differently in the healthiest possible way.
