@@ -56,7 +56,7 @@ When exercising you induce a stress event that breaks down your muscle and it bu
 
 ## Final thoughts
 
-Working on your nutrition is essential to reach your goals, and is always good to contact a professional nutritionist to help you in this process. That's why I'm offering my services. You can check them up<a href="https://rociojalifi.com/services/nutrition/" target="_blank" rel="noopener noreferrer">here</a> and I'll be happy to help you!
+Working on your nutrition is essential to reach your goals, and is always good to contact a professional nutritionist to help you in this process. That's why I'm offering my services. You can check them up <a href="https://rociojalifi.com/services/nutrition/" target="_blank" rel="noopener noreferrer">here</a> and I'll be happy to help you!
 
 
 ## Sources
