@@ -1,21 +1,22 @@
 ---
 title: Nutritional advice
-description: What is a normal and healthy food-pattern for me?
+description: What is the right eating pattern for me?
 date: 2020-05-20
 template: service
 image: ./nutri_service_2.jpg
 order: 1
 ---
 
-### Introduction
+## Introduction
 
-Learning to maintain a healthy diet needs more explanation, coaching & guidance than just giving nutritional advice (including feedback on the food diary) and an example daily menu or diet plan. So many factors come into play. Therefore I use a holistic approach (which involves the entire individual. The 'whole' looks at more factors than just nutrition).
+Most of the time physical and mental complaints are consequences of poor nutrition habits. These complaints or symptoms can be reduced by making simple changes in the diet and lifestyle. However,
+learning to maintain a healthy lifestyle needs coaching, guidance, and learning.
 
-It is also a possibility to have a very comprehensive nutrition plan drawn up, fully composed, and calculated on personal goals, lifestyle, and health complaints. You will always receive personal advice, no standard nutrition schedules.
+Each new client will have the possibility to acquire a very comprehensive nutrition plan, fully composed, and calculated on personal goals, lifestyle, and health complaints. At each appointment you are going to receive personal advice and food education, not standard nutrition schedules.
 
-#### New Client Plan
+### New Client Plan
 
-As a new client, you'll begin with three sessions designed to deep dive into your goals, health history, and lifestyle. You'll receive personalized nutrition plans with several other resources so you feel confident moving forward. After these three sessions, I can continue to support you with follow-up coaching, providing you with additional guidance as you develop new habits and navigate life's challenges.
+As a new client, you'll begin with three sessions designed to deep dive into your goals, health history, and lifestyle. You'll receive personalized nutrition plans with several other resources so you feel confident moving forward. After these three sessions, I can continue to support you with follow-up sessions, providing you with additional guidance as you develop new habits and navigate life's challenges.
 
 #### Session #1 - Initial Consultation
 
@@ -34,7 +35,7 @@ We’ll do a deep dive into your questionnaire, food log, dietary assessment, pa
 
 #### Session 2 - Nutrition Plan
 
-After you’ve completed the Initial Consultation and have put into action your foundational goals for at least one week, you’re ready for your 2nd appointment which is all about the nutrition plan and education about nutrition, how to nourish your body, and eat well for life.
+After you’ve completed the **Initial Consultation** and have put into action your foundational goals for at least one week, you’re ready for your second appointment which is all about the nutrition plan and education about eating patterns, how to nourish your body, and eat well for life.
 
 In this 60-minute session, we’ll go over the nutrition plan created for you after learning all about your specific goals. We’ll cover how to assess hunger cues, mind-body connection, and how to perform daily check-ins — whatever is best to meet your individual needs.
 
@@ -45,38 +46,56 @@ In this 60-minute session, we’ll go over the nutrition plan created for you af
 - Lifestyle Plan (at the discretion of the coach)
 - Recipes of snacks, portion control, travel ideas, dining out, etc.
 - Grocery shopping lists as needed
-- Meal Plan Chart (fillable)
 - Weekly goal setting
 - Healthy homework assignments
 
 #### Session 3 - Follow Up
 
-After you’ve completed your second appointment, we'll have a follow-up session to see how things are working, what challenges you might be facing, and how to progress forward.
+After you’ve completed the second appointment, we'll have a follow-up session to see how things are working, what challenges you might be facing, and how to progress forward.
 
-This follows up session will adjust depending on your needs.
+This follow up session will adjust depending on your needs.
 
 It may include specific nutrition education topics you want to learn about, customized meal plans (i.e. updates to your nutrition plan), functional nutrition and health strategies, healthy cooking education, motivational techniques, and more.
 
-#### START MAKING PROGRESS TODAY!
+**START MAKING PROGRESS TODAY!**
 
-###### 1 session €50
+### Prices
 
-###### 9 sessions package
+#### Initial Consultation
+- 1 session €60
 
-- €119 / month (for 3 months).
+#### Nutrition Plan
+- 1 session €50
+
+#### Follow up
+- Short follow up (30 minutes): €16
+- Long follow up (60 minutes): €30
+
+### Packages
+
+- **9 sessions package:** €125 per month (for 3 months).
 
   - 3 months of care.
-  - Three, 60 minutes consultations.
+  - 3 sessions of 60 minutes consultations.
+  - 3 Nutrition Plans according to your goals
+  - 3 long follow up-sessions.
   - Everything in the "What's included" menu above.
 
-###### 18 sessions package
-
-- €98 / month (for 6 months).
-  - Save €126.
+- **18 sessions package:** €105 / month (for 6 months).
   - 6 months of coaching and care.
-  - Three, 60 minutes consultation.
-  - Five, 20 minutes Follow up Sessions.
+  - 3 sessions of 60 minutes consultation.
+  - 5 sessions of 30 minutes Follow up Sessions.
+  - 6 Nutrition meal plans
   - Everything in the "What's included" menu above.
   - Unlimited messaging and support
+
+#### Subscriptions
+- 5 short follow-up consultations (valid for 3 months after purchase)	**€75**
+- 10 follow-up consultations (10th consultation is free) (valid for 6 months after purchase) **€144**
+
+**You can buy all this packages and subscriptions and share them with a friend or partner.**
+
+An appointment must be canceled 24 hours in advance. Otherwise, you will be charged half of the cost.
+`
 
 ##### LET'S WORK TOGETHER ♡

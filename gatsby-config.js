@@ -1,12 +1,12 @@
 const siteMetadata = {
-  title: 'Rocio Jalifi',
+  title: 'Señorita Nutrition',
   siteUrl: 'http://localhost',
   capitalizeTitleOnHome: true,
   logo: '/images/avatar.png',
   icon: '/images/icon.png',
   titleImage: '/images/wall.jpg',
-  introTag: 'LIFESTYLE VLOGS | NUTRITION CONTENT ',
-  description: 'Eat good, live better',
+  introTag: '  NUTRITION IS A SCIENCE, NOT AN OPINION ',
+  description: '',
   author: '@rojalifi',
   blogItemsPerPage: 10,
   servicesItemsPerPage: 10,
@@ -21,11 +21,11 @@ const siteMetadata = {
   ],
   footerLinks: [{name: 'PRIVACY POLICY', url: '/privacy-policy'}],
   social: [
-    // {
-    //   name: 'Twitter',
-    //   icon: '/images/Twitter.svg',
-    //   url: 'https://twitter.com/rojalifi',
-    // },
+     {
+      name: 'Twitter',
+       icon: '/images/Twitter.svg',
+       url: 'https://twitter.com/senoritanutri',
+     },
     {
       name: 'Instagram',
       icon: '/images/Instagram.svg',
@@ -46,10 +46,11 @@ const siteMetadata = {
     // Leave the below value completely empty (no space either) if you don't want a contact form.
     // api_url: './test.json',
     api_url: '',
-    description: "Let's have a chat",
+    description: "Please don´t hesitate to contact me with questions, requests, and more",
     mail: 'rociojalifi.life@gmail.com',
     phone: '',
     address: '',
+    
   },
   // this is optional. you can uncomment this if you use disqus
   // disqus: 'your-disqus-shortname'

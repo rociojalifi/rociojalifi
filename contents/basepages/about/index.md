@@ -6,18 +6,16 @@ image: ./about_6.jpg
 
 ## Hi there,
 
-I’m from Buenos Aires, Argentina. Currently, I'm living in Amsterdam, The Netherlands. I studied at the River Plate Adventist University where I got a Bachelor's degree in Nutrition. Most of my life I've been into foodstuff. Since I got my degree I work in the food industry in different ways: creating new products, recipes, and providing nutritional education to the community to prevent lifestyle diseases.
+I'm Rocio Jalifi, nice to meet you! I’m from Buenos Aires, Argentina. Currently, living in Amsterdam, The Netherlands. For most of my life, I've been into foodstuff. Since I graduated, I work in the food industry in different ways: creating new products, recipes, and providing nutritional education to the community to prevent lifestyle diseases.
 
 ### My story
 
-I’ve been vegetarian almost my whole life but nevertheless, my nutrition wasn’t the best. Because of bad nutrition habits, I got an infection in different parts of my body, so I decided that I needed a change in my lifestyle.
+I’ve been vegetarian almost my whole life. However, my nutrition wasn’t the best. As a consequence of bad nutrition and habits, I got an infection in different parts of my body, thus I decided that I needed a change in my lifestyle.
 
-The disease inspire me to learn about nutrition. I wanted to continue eating tasty but without harming my body.
+The disease inspired me to learn about nutrition. I wanted to continue eating tasty but without harming my body. I also wanted to teach others how to conceive a healthy lifestyle, and how to eat well. That is why I decided to study Nutrition at the Universidad Adventista del Plata. The year 2015 I completed my studies with a bachelor's degree in Nutrition. From then on, I decided to continue specializing in vegetarian and vegan eating patterns, and nutrition for athletes.
 
-From that moment onwards, I started a path into a better lifestyle. Through this process, I made a lot of mistakes until I learned that living a healthy lifestyle is not just eating good food, but also it has to do on working on healthy choices to grow yourself socially, mentally and spiritually.
+Through this path into a better lifestyle, I made a lot of mistakes that caused me to deal with eating disorders and depression. Until I learned that living a healthy lifestyle is not just eating good food, but also it has to do with working on healthy choices to grow yourself socially, mentally, and spiritually.
 
-I support my clients by cultivating a healthier relationship with food and working alongside my clients to overcome disordered eating habits.
+I want to support you in cultivating a healthier relationship with food and working to develop healthy eating patterns that you can keep FOR LIFE!
 
-I also enjoy working with women of all ages to support women’s health (family planning, pregnancy, and family nutrition).
-
-###### Let's get in touch ♡
+**Let's work together ♡**
