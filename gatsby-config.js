@@ -46,7 +46,7 @@ const siteMetadata = {
     // Leave the below value completely empty (no space either) if you don't want a contact form.
     // api_url: './test.json',
     api_url: '',
-    description: "Please don´t hesitate to contact me with questions, requests, and more",
+    description: "If you have questions or requests, contact me!",
     mail: 'rociojalifi.life@gmail.com',
     phone: '',
     address: '',
