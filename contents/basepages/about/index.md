@@ -1,7 +1,7 @@
 ---
 title: About
 template: basepage
-image: ./about_6.jpg
+image: ./about-2.jpeg
 ---
 
 ## Hi there,
