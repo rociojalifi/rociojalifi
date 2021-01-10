@@ -3,7 +3,7 @@ title: Workshops
 description: Would you like to join vegetarian and vegan cooking classes with nutritional education?
 date: 2020-05-20
 template: service
-image: ./ws_service_4.jpg
+image: ./workshops-2.jpeg
 order: 2
 ---
 

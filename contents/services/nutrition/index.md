@@ -3,7 +3,7 @@ title: Nutritional advice
 description: What is the right eating pattern for me?
 date: 2020-05-20
 template: service
-image: ./nutri_service_2.jpg
+image: ./nutri-services.jpeg
 order: 1
 ---
 
@@ -66,6 +66,7 @@ It may include specific nutrition education topics you want to learn about, cust
 
 #### Nutrition Plan
 - 1 session €50
+- Meal plan updates €25
 
 #### Follow up
 - Short follow up (30 minutes): €16
@@ -73,21 +74,17 @@ It may include specific nutrition education topics you want to learn about, cust
 
 ### Packages
 
-- **9 sessions package:** €125 per month (for 3 months).
-
-  - 3 months of care.
-  - 3 sessions of 60 minutes consultations.
-  - 3 Nutrition Plans according to your goals
+- **7 sessions package:** €110 per month (for 3 months).
+  - 3 months of care:
+  - 1 Initial consultation
+  - 3 Nutrition plans according to your goals
   - 3 long follow up-sessions.
-  - Everything in the "What's included" menu above.
 
-- **18 sessions package:** €105 / month (for 6 months).
+- **18 sessions package:** €100 / month (for 6 months).
   - 6 months of coaching and care.
-  - 3 sessions of 60 minutes consultation.
-  - 5 sessions of 30 minutes Follow up Sessions.
-  - 6 Nutrition meal plans
-  - Everything in the "What's included" menu above.
-  - Unlimited messaging and support
+  - 3 sessions of the initial consultation (every 2 months we are going to need to do dietary and lifestyle assessment following a new anthropometric questionnaire to reevaluate your health condition and future changes)
+  - 9 sessions of short Follow up Sessions.
+  - 6 Nutrition meal plans.
 
 #### Subscriptions
 - 5 short follow-up consultations (valid for 3 months after purchase)	**€75**
