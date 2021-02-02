@@ -21,11 +21,11 @@ const siteMetadata = {
   ],
   footerLinks: [{name: 'PRIVACY POLICY', url: '/privacy-policy'}],
   social: [
-     {
+    {
       name: 'Twitter',
-       icon: '/images/Twitter.svg',
-       url: 'https://twitter.com/senoritanutri',
-     },
+      icon: '/images/Twitter.svg',
+      url: 'https://twitter.com/senoritanutri',
+    },
     {
       name: 'Instagram',
       icon: '/images/Instagram.svg',
@@ -46,11 +46,10 @@ const siteMetadata = {
     // Leave the below value completely empty (no space either) if you don't want a contact form.
     // api_url: './test.json',
     api_url: '',
-    description: "If you have questions or requests, contact me!",
+    description: 'If you have questions or requests, contact me!',
     mail: 'rociojalifi.life@gmail.com',
     phone: '',
     address: '',
-    
   },
   // this is optional. you can uncomment this if you use disqus
   // disqus: 'your-disqus-shortname'

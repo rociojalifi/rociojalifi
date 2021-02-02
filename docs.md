@@ -1,19 +1,14 @@
 # Gatsby Starter Elemental
 
-![](https://img.shields.io/badge/version-1.1.1-green.svg)
-![](https://img.shields.io/badge/License-MIT-orange.svg)
+![](https://img.shields.io/badge/version-1.1.1-green.svg) ![](https://img.shields.io/badge/License-MIT-orange.svg)
 
-Elemental is a portfolio template suitable for artists, photographers, designers
-etc. With the starter you can create blog posts, portfolio posts an
-miscellaneous posts (such as privacy-policy).
+Elemental is a portfolio template suitable for artists, photographers, designers etc. With the starter you can create blog posts, portfolio posts an miscellaneous posts (such as privacy-policy).
 
-**[Live Demo](https://elemental.netlify.com)** |
-**[Theme](https://github.com/akzhy/gatsby-theme-elemental)**
+**[Live Demo](https://elemental.netlify.com)** | **[Theme](https://github.com/akzhy/gatsby-theme-elemental)**
 
 ## Getting Started.
 
-You will need node and [Gatsby](https://www.gatsbyjs.org/tutorial/part-zero/)
-installed.
+You will need node and [Gatsby](https://www.gatsbyjs.org/tutorial/part-zero/) installed.
 
 Start the project by
 
@@ -31,8 +26,7 @@ gatsby build
 
 ### Configuring
 
-Almost all features of this starter are editable. In order to personalize, open
-the `gatsby-config.js` file and start editing the below part.
+Almost all features of this starter are editable. In order to personalize, open the `gatsby-config.js` file and start editing the below part.
 
 ```javascript
 // Do not remove any of the properties below.
@@ -116,15 +110,11 @@ let siteMetadata = {
 }
 ```
 
-**NOTE** There is an optional field called `disqus`. the value will be your
-disqus shortname. You can look for more info
-[here](https://github.com/tterb/gatsby-plugin-disqus).
+**NOTE** There is an optional field called `disqus`. the value will be your disqus shortname. You can look for more info [here](https://github.com/tterb/gatsby-plugin-disqus).
 
 #### Creating new blog posts.
 
-Open the `contents/blog` folder and create a new folder with the name you wish
-to see as the URL. Inside the folder create an `index.md` file and also include
-any files you wish to add.
+Open the `contents/blog` folder and create a new folder with the name you wish to see as the URL. Inside the folder create an `index.md` file and also include any files you wish to add.
 
 The frontmatter should be of the below structure
 
@@ -139,14 +129,11 @@ description: The description shown in the listing page. Also used for SEO descri
 ---
 ```
 
-If you don't want the blog section, simply delete everything inside the
-`contents/blog` folder. (Do not delete the folder itself)
+If you don't want the blog section, simply delete everything inside the `contents/blog` folder. (Do not delete the folder itself)
 
 #### Creating new portfolio posts.
 
-Open the `contents/portfolio` folder and create a new folder with the name you
-wish to see as the URL. Inside the folder create an `index.md` file and also
-include any files you wish to add.
+Open the `contents/portfolio` folder and create a new folder with the name you wish to see as the URL. Inside the folder create an `index.md` file and also include any files you wish to add.
 
 The frontmatter should be of the below structure
 
@@ -172,14 +159,11 @@ To create a grid, follow the below structure
 [/row]
 ```
 
-The columns will have equal width on wide screens, and will expand on smaller
-screens.
+The columns will have equal width on wide screens, and will expand on smaller screens.
 
 #### Creating miscellaneous posts
 
-These posts follow the URL structure of
-`http://example.com/miscellaneous-post/`. They are useful for creating pages
-like `privacy-policy`
+These posts follow the URL structure of `http://example.com/miscellaneous-post/`. They are useful for creating pages like `privacy-policy`
 
 The "About" page is created as a miscellaneous post.
 

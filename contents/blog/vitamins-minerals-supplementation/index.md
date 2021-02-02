@@ -12,11 +12,11 @@ Some days ago I was at a friend's house and she asked: **"Hey do you want some v
 
 Afterward, I started thinking: **Do I need to use vitamins and minerals supplements when I can provide those micronutrients with food?**
 
-Vitamins, minerals, and food supplements (FSs) are often used without medical prescription. These are the most commonly used self-medicated OTC (over-the-counter) drugs. The highest commonly reported reason for self-medication is "prevention". 
+Vitamins, minerals, and food supplements (FSs) are often used without medical prescription. These are the most commonly used self-medicated OTC (over-the-counter) drugs. The highest commonly reported reason for self-medication is "prevention".
 
 ## What are vitamins and mineral supplements?
 
-Multivitamins and minerals supplements contain a combination of vitamins and minerals and sometimes other ingredients such as herbs, amino acids, and/or enzymes. Taking supplements comes from the fact that for some reason an individual can't or don't consume enough minerals or vitamins. They should not be the main source of micronutrients, just a way of complementing our diet in case we need it. 
+Multivitamins and minerals supplements contain a combination of vitamins and minerals and sometimes other ingredients such as herbs, amino acids, and/or enzymes. Taking supplements comes from the fact that for some reason an individual can't or don't consume enough minerals or vitamins. They should not be the main source of micronutrients, just a way of complementing our diet in case we need it.
 
 The vitamins and minerals included perform unique functions in the body. We need them to live a healthy life and avoid physical and mental diseases.
 
@@ -28,10 +28,9 @@ The recommended amounts of nutrients that individuals should consume are differe
 
 For supplements and diet food labels, a value is selected for each nutrient, known as the daily value (DV). The label indicates the % of Daily Value, allowing you to verify how much (in percentage) a portion of the product contributes to reaching the DV.
 
-
 ## Effects of supplements on health
 
-**Increase nutrient intake**:consuming a multivitamin/mineral supplement increases nutrient intake and allows people to get the recommended amounts of vitamins and minerals when they can't, or don't cover, these needs only with food. However, consumption of a multivitamin/mineral supplement can also increase the chance of receiving an excessive amount of certain nutrients, such as iron, vitamin A, zinc, niacin,  folic acid, and calcium.
+**Increase nutrient intake**:consuming a multivitamin/mineral supplement increases nutrient intake and allows people to get the recommended amounts of vitamins and minerals when they can't, or don't cover, these needs only with food. However, consumption of a multivitamin/mineral supplement can also increase the chance of receiving an excessive amount of certain nutrients, such as iron, vitamin A, zinc, niacin, folic acid, and calcium.
 
 **Health promotion and prevention of chronic diseases**:It is more likely that those who have healthier diets and lifestyles take dietary supplements, making it difficult to identify the benefits of multivitamin/mineral supplements.
 
@@ -39,7 +38,7 @@ For supplements and diet food labels, a value is selected for each nutrient, kno
 
 ## Should I take supplements?
 
-Multivitamin/mineral supplements must not replace the variety of foods. Food not only provides vitamins and minerals, they also contain fibers and other nutrients that have positive effects on health. But for individuals who don't get enough vitamins and minerals just from food, consume low-calorie diets, have little appetite, or do not eat certain foods, might consider a supplement multivitamin/mineral. 
+Multivitamin/mineral supplements must not replace the variety of foods. Food not only provides vitamins and minerals, they also contain fibers and other nutrients that have positive effects on health. But for individuals who don't get enough vitamins and minerals just from food, consume low-calorie diets, have little appetite, or do not eat certain foods, might consider a supplement multivitamin/mineral.
 
 Multivitamin/mineral supplements can also be recommended to patients with certain medical conditions such as.
 
@@ -47,7 +46,6 @@ Multivitamin/mineral supplements can also be recommended to patients with certai
 - **Pregnant women** often experience lack of iron. The doctor may prescribe iron supplements because of deficiency.
 - **Post-menopausal woman**: Calcium and vitamin D to strengthen bones. It should be provided with medical prescriptions.
 - **People over 50** might not be able to absorb nutrients properly and could need calcium and vitamin D supplements.
-
 
 ### In what cases is it recommended?
 
@@ -61,16 +59,14 @@ Mineral and vitamins supplements, when there is no associated pathology, are unn
 
 ## Final thoughts
 
-A varied and balanced diet is enough to cover the daily nutritional requirements. If you follow a balanced eating pattern, you shouldn't be worried about nutritional supplements. Luckily for us, we can find fresh, seasonal, nutritionally rich, and tasty products everywhere, which are an excellent repository of vitamins and minerals. 
+A varied and balanced diet is enough to cover the daily nutritional requirements. If you follow a balanced eating pattern, you shouldn't be worried about nutritional supplements. Luckily for us, we can find fresh, seasonal, nutritionally rich, and tasty products everywhere, which are an excellent repository of vitamins and minerals.
 
 ###### I encourage you to take advantage of them!
 
 Do you need some help with your eating patterns? You can check out <a href="https://rociojalifi.com/services/nutrition/" target="_blank" rel="noopener noreferrer">my services </a> and I'll be happy to help you!
-
 
 ## Sources
 
 - [Selbstmedikation mit Vitaminen, Mineralstoffen und Nahrungsergänzungsmitteln in Deutschland](https://edoc.rki.de/bitstream/handle/176904/2940/26asMp9YlOa0s.pdf;jsessionid=31E870462CB5C6E97F8DBD45DFFD3183?sequence=1)
 - [Selbstmedikation mit Over-the-Counter-(OTC-)Präparaten in Deutschland](https://link.springer.com/article/10.1007/s00103-004-0923-3)
 - [The answer is in nature: "micronutrients: the vitamins, therapeutic agents in wounds"](http://scielo.isciii.es/scielo.php?script=sci_arttext&pid=S1695-61412013000300017)
-

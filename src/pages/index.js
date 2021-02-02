@@ -1,11 +1,14 @@
 import React from 'react'
-import Layout from '../components/layout'
 import {graphql} from 'gatsby'
+
+import Layout from '../components/layout'
 import SEO from '../components/seo'
 import SocialLinks from '../components/sociallinks'
+import {BuyMeACoffee} from '../components/BuyMeACoffee'
 // import ServicesList from '../components/list-services'
 // import BlogList from '../components/list-blog'
 // import Contact from '../components/contact'
+
 import '../style/wall.less'
 
 class IndexPage extends React.Component {
@@ -129,6 +132,19 @@ class IndexPage extends React.Component {
           <div className="social-buttons">
             <SocialLinks />
           </div>
+        </div>
+
+        <div
+          className="container"
+          style={{
+            display: 'flex',
+            alignItems: 'center',
+            justifyContent: 'center',
+            marginTop: 100,
+            marginBottom: 100,
+          }}
+        >
+          <BuyMeACoffee />
         </div>
 
         {/* <div

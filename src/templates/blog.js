@@ -1,11 +1,14 @@
 import React from 'react'
 import {graphql} from 'gatsby'
 import Img from 'gatsby-image'
+
 import Layout from '../components/layout'
 import LatestPosts from '../components/blogposts-latest'
 import SEO from '../components/seo'
 import Date from '../components/date'
 import Comments from '../components/comments'
+import {BuyMeACoffee} from '../components/BuyMeACoffee'
+
 import '../style/blog-singlepage.less'
 
 export default function({data, location}) {
@@ -49,6 +52,9 @@ export default function({data, location}) {
             <p className="post-date">
               <Date data={data.markdownRemark.frontmatter.date} />
             </p>
+          </div>
+          <div className="content row flex">
+            <BuyMeACoffee />
           </div>
           <div className="content row flex">
             <div

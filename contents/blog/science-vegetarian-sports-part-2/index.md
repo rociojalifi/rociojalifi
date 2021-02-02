@@ -8,10 +8,9 @@ published: true
 description: Vegetarian diet and sports performance
 ---
 
-## Introduction 
+## Introduction
 
-Regarding nutritional needs, a differentiation must be made between the general population and the sports population. 
-The guidelines and recommendations for the general population may differ for the sports population and vice versa. The practice of physical exercise, whatever it is, supposes different nutritional needs from those who don't do any type of activity.
+Regarding nutritional needs, a differentiation must be made between the general population and the sports population. The guidelines and recommendations for the general population may differ for the sports population and vice versa. The practice of physical exercise, whatever it is, supposes different nutritional needs from those who don't do any type of activity.
 
 This is even more noticeable in high-performance or elite athletes, where eating patterns and paying more detailed attention to certain factors will make the difference between victory or defeat.
 
@@ -33,7 +32,7 @@ If you want to read more about vegetarian food patterns and sport you can read m
 
 ## Micronutrients to consider
 
-### Iron 
+### Iron
 
 > Essential macromineral knew and investigated for its nutritional deficiency (Andreu Ivorra, 2016. In the performance of an athlete, iron is a nutrient of great importance, because in the blood (hemoglobin), is the component that carries oxygen to the muscles (myoglobin) (Burke, Louise; Cox, 2010).
 
@@ -52,7 +51,7 @@ An athlete's vegetarian diet should be rich in iron content such as spinach, bro
 Whole grains, dried fruits, seeds, beans are rich in zinc, but contain a large number of phytates. To obtain a reduction in this, soak the grains and legumes, this increase their bioavailability (B & Julieta, 2013).
 
 For athletes who maintain a vegetarian diet, it is difficult to concentrate this micromineral in plasma, due to the constant exercise that leads to urinary loss. Therefore, the daily intake of zinc is 12 mg/day in women and 16.5 mg/day in men. (B & Julieta, 2013).
- 
+
 ### Calcium
 
 > It is a mineral of great importance. It keeps teeth and bones in good condition. Calcium is found in various fortified and plant-based foods (Andreu Ivorra, 2016).
@@ -70,10 +69,10 @@ Kale, Chinese chard, Chinese broccoli, turnip greens provide calcium in high bio
 The foods that are a source of this vitamin come from animal origin. However they can be found in fortified foods such as nutritional yeast, algae, spirulina, and soy drink.
 
 The consumption of vitamin B12 is deficient in vegetarian diets. Therefore, the vegetarian population must use supplements to reach the recommended doses of vitamin B12, in vegetarians 3.09 μg / day, in women and men 2.4 μg / day.
- 
+
 ### Antioxidants
 
-> In the sports field, the constant exercise of a high-performance athlete can cause oxidative stress in the tissues, thus causing muscle pain and also affecting their recovery, for this  reason, it is recommended that the intake of antioxidants in athletes is increased (B & Julieta, 2013).
+> In the sports field, the constant exercise of a high-performance athlete can cause oxidative stress in the tissues, thus causing muscle pain and also affecting their recovery, for this reason, it is recommended that the intake of antioxidants in athletes is increased (B & Julieta, 2013).
 
 #### Foods with antioxidant content
 
@@ -95,19 +94,17 @@ To help the performance of vegetarian athletes, the consumption of omega 3 shoul
 
 Vegetarian athletes should eat foods such as seeds, chia seeds, flax seeds, hemp seeds, and walnuts. The recommended daily intake of Omega 3 in children and adults is 0.6 - 1.2 mg/day (Ares, 2018).
 
-
 ## Conclusion
 
-A growing body of scientific evidence indicates that wholesome vegetarian diets offer distinct advantages compared to diets containing meat and other foods of animal origin.
-The benefits arise from lower intakes of saturated fat, cholesterol, and animal protein as well as higher intakes of complex carbohydrates, dietary fiber, magnesium, folic acid, vitamin C and E, carotenoids, and other phytochemicals.
+A growing body of scientific evidence indicates that wholesome vegetarian diets offer distinct advantages compared to diets containing meat and other foods of animal origin. The benefits arise from lower intakes of saturated fat, cholesterol, and animal protein as well as higher intakes of complex carbohydrates, dietary fiber, magnesium, folic acid, vitamin C and E, carotenoids, and other phytochemicals.
 
-In the past, vegetarian diets have been described as being deficient in several nutrients including protein, iron, zinc, calcium, vitamin B12, and A, n-3 fatty acids, and iodine. Numerous studies have demonstrated that the observed deficiencies are usually due to poor meal planning. Well-balanced vegetarian diets are appropriate for all stages of the life cycle, including children, adolescents, pregnant and lactating women, the elderly, and competitive athletes. In most cases, vegetarian diets are beneficial in the prevention and treatment of certain diseases, such as cardiovascular disease, hypertension, diabetes, cancer, osteoporosis, renal disease, and dementia, as well as diverticular disease, gallstones, and rheumatoid arthritis. 
+In the past, vegetarian diets have been described as being deficient in several nutrients including protein, iron, zinc, calcium, vitamin B12, and A, n-3 fatty acids, and iodine. Numerous studies have demonstrated that the observed deficiencies are usually due to poor meal planning. Well-balanced vegetarian diets are appropriate for all stages of the life cycle, including children, adolescents, pregnant and lactating women, the elderly, and competitive athletes. In most cases, vegetarian diets are beneficial in the prevention and treatment of certain diseases, such as cardiovascular disease, hypertension, diabetes, cancer, osteoporosis, renal disease, and dementia, as well as diverticular disease, gallstones, and rheumatoid arthritis.
 
 Professional nutritionists must educate individuals who take the option of starting any type of vegetarian diet and help them to implement it properly, to cover all the macro and micronutrients required according to their age and metabolic status, to promote normal growth and development.
 
 ![photo](./photo_final.jpg)
 
-Do you need help with your eating patterns? You can check out <a href="https://rociojalifi.com/services/nutrition/" target="_blank" rel="noopener noreferrer">my services </a> and I'll be happy to help you! 
+Do you need help with your eating patterns? You can check out <a href="https://rociojalifi.com/services/nutrition/" target="_blank" rel="noopener noreferrer">my services </a> and I'll be happy to help you!
 
 ### Sources
 
@@ -119,5 +116,3 @@ Do you need help with your eating patterns? You can check out <a href="https://r
 - Bradley, S; Graham, D; Mowris, L; Bauer, B; Lucke, J; Ruscigno, M; Wes, M. (2013). Organic Athlete. Guía de Nutrición. Retrieved fro m http://weekly.cnbnews.com/news/article.html?no=124000
 - Olivos, Cristina; Cuevas, Ada; Álvarez, Veronica; Jorquera, C. (2012). Nutrición para el Rendimiento y la Competición. Revista. Media. Clinica Las Condes. Centro de Alto Rendimiento (C.A.R.)., 23(3), 253–261.
 - https://www.semanticscholar.org/paper/Vegetarian-diets%3A-what-are-the-advantages-Leitzmann/7b7b78d744f8fd625341bf2d07699c2473a4a22f
-
-

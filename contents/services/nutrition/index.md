@@ -9,8 +9,7 @@ order: 1
 
 ## Introduction
 
-Most of the time physical and mental complaints are consequences of poor nutrition habits. These complaints or symptoms can be reduced by making simple changes in the diet and lifestyle. However,
-learning to maintain a healthy lifestyle needs coaching, guidance, and learning.
+Most of the time physical and mental complaints are consequences of poor nutrition habits. These complaints or symptoms can be reduced by making simple changes in the diet and lifestyle. However, learning to maintain a healthy lifestyle needs coaching, guidance, and learning.
 
 Each new client will have the possibility to acquire a very comprehensive nutrition plan, fully composed, and calculated on personal goals, lifestyle, and health complaints. At each appointment you are going to receive personal advice and food education, not standard nutrition schedules.
 
@@ -62,19 +61,23 @@ It may include specific nutrition education topics you want to learn about, cust
 ### Prices
 
 #### Initial Consultation
+
 - 1 session €60
 
 #### Nutrition Plan
+
 - 1 session €50
 - Meal plan updates €25
 
 #### Follow up
+
 - Short follow up (30 minutes): €16
 - Long follow up (60 minutes): €30
 
 ### Packages
 
 - **7 sessions package:** €110 per month (for 3 months).
+
   - 3 months of care:
   - 1 Initial consultation
   - 3 Nutrition plans according to your goals
@@ -87,12 +90,12 @@ It may include specific nutrition education topics you want to learn about, cust
   - 6 Nutrition meal plans.
 
 #### Subscriptions
-- 5 short follow-up consultations (valid for 3 months after purchase)	**€75**
+
+- 5 short follow-up consultations (valid for 3 months after purchase) **€75**
 - 10 follow-up consultations (10th consultation is free) (valid for 6 months after purchase) **€144**
 
 **You can buy all this packages and subscriptions and share them with a friend or partner.**
 
-An appointment must be canceled 24 hours in advance. Otherwise, you will be charged half of the cost.
-`
+An appointment must be canceled 24 hours in advance. Otherwise, you will be charged half of the cost. `
 
 ##### LET'S WORK TOGETHER ♡
